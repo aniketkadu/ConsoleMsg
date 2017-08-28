@@ -1,2 +1,2 @@
 # ConsoleMsg
-sample For Git Repository
+sample For Git Repository!
